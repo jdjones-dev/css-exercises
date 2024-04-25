@@ -2,23 +2,35 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+<<<<<<< HEAD
 .para.small-para {
+=======
+div.text {
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 100;
+}
+
+.para {
+  font-size: 22px;
+}
+.para,
+.small-para {
+>>>>>>> db7551aff13d72556a377c11b29c855977f70d5a
   color: hsl(0, 0%, 0%);
   font-weight: 800;
   font-size: 14px;
 }
 
+<<<<<<< HEAD
 .para {
   font-size: 22px;
   color: black;
   font-weight: 800;
 }
+=======
+>>>>>>> db7551aff13d72556a377c11b29c855977f70d5a
 
-.confirm {
-  background: green;
-  color: white;
-  font-weight: bold;
-} 
 
 #confirm-button{
   background-color: green;
@@ -28,6 +40,7 @@ body {
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
+<<<<<<< HEAD
 
 
 
@@ -40,12 +53,23 @@ body {
   font-size: 14px;
 }
 /* .child {
+=======
+.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
+.text .child {
+>>>>>>> db7551aff13d72556a377c11b29c855977f70d5a
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
 }
 
+<<<<<<< HEAD
 .text {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100; */
+=======
+>>>>>>> db7551aff13d72556a377c11b29c855977f70d5a

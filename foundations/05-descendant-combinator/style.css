@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 div p{
     background-color: yellow;
     font-size: 20px;
     text-align: center;
     color: red;
 }
+=======
+.container .text{
+    background: yellow;
+    color: red;
+    font-size: 20px;
+}
+>>>>>>> db7551aff13d72556a377c11b29c855977f70d5a
